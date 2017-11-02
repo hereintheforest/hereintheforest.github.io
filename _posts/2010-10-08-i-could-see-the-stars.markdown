@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "I could see the stars..."
+title:  "I Could See The Stars"
 date:   2010-10-08 16:04:00 -0300
 tags:   fall update
 ---
