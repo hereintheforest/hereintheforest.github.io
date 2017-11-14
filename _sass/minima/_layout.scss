@@ -189,6 +189,12 @@
 
   > li {
     margin-bottom: $spacing-unit;
+
+    &:last-child {
+        .post-meta {
+            border-bottom: none;
+        }
+    }
   }
 
   .post-link {
@@ -199,11 +205,13 @@
         text-decoration: none;
     }
   }
+
 }
 
 .post-meta {
   font-size: $small-font-size;
   color: $grey-color;
+  border-bottom: 1px solid #eee;
 }
 
 .post-link {

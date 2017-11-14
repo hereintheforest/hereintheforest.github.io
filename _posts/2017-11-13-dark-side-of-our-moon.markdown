@@ -12,8 +12,8 @@ What does it take to be near you? What could I give that wouldn't leave us undon
 There are no more crimes to commit that bridge our respective space and time.
 And maybe you've spent your term in prison, but give me a few more hours to complete mine.
 
-Words and feelings travel at the speed of light, but our daylight remains elusive.
-What's one week to three months in the dark? Do the portholes let in enough light?
+Words and feelings travel at the speed of light, but our days remain elusive.
+What's one week to three months in the dark? Do the portholes let in enough sunshine?
 
 I can't know you. I can't give you up.
 You were too beautiful to talk to, It's horrendous to let you be.
