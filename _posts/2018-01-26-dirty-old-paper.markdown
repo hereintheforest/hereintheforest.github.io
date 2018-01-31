@@ -7,7 +7,7 @@ tags:   dirt material real
 
 Divorce is bloody thing. I never thought I could leave everyday behind–but there you are, and I can't seem to keep it on the ground.
 
-The careful dust my clothes acquired isn't there anymore. All my darned t-shirts paint a bleak picture of bifracation.
+The careful dust my clothes acquired isn't there anymore. All my darned t-shirts paint a bleak picture of bifurcation.
 
 Don't you miss the days when things hurt, when books were preferable to thinking. These free feelings don't sit right in my skin. Here in a flash, and gone. I listened and you were all distinctly confused. If this was just one thing I could touch it, but maybe that's the point.
 
