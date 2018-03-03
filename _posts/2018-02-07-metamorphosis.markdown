@@ -3,7 +3,7 @@ layout: post
 title:  "Metamorphosis"
 date:   2018-02-07 18:03:00 -0500
 ---
-# i.
+## i.
 You know me pretty well, I can't disagree.
 Your taste is impeccable, but my epitopes shift to betray me.
 
@@ -20,7 +20,7 @@ will you see what I made? Or in these clumsy fingers, and  messy facial hair, wi
 
 ---
 <br />
-# ii.
+## ii.
 I've been bested. Upstaged. Left in the shallows. My own catastrophe.
 Barely whispering—the earth swallows me.
 
@@ -38,7 +38,7 @@ I'll take their venom as my own, and calmly rise when my heart starts beating.
 
 ---
 <br />
-# iii.
+## iii.
 Please be gentle, this movement is not for free. This move to mythomorphic abstraction may just be the death of me.
 
 And if I'm permitted to question some of your fears. Just what do these friendships come down to when the ash is all cleared?
